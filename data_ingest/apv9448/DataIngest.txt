@@ -1,0 +1,20 @@
+Data Ingestion: 
+
+To ingest the data download the three datasets on your local machine:
+They are located at /FinalCode/Datasets
+- matches22-23.csv
+- soccer21-22.csv
+- gk.csv
+
+Then, upload them to HDFS. 
+
+Finally, 
+Make a directory (if it does not exist already in HDFS) named /FinalCode/input
+You can do this by using the command:
+hdfs dfs -mkdir FinalCode 
+hdfs dfs -mkdir FinalCode/input
+While making sure you are in the same directory as the datasets /FinalCode/Datasets 
+Run the following commands to put the three datasets into HDFS:
+hdfs dfs -put matches22-23.csv FinalCode/input
+hdfs dfs -put soccer21-22.csv FinalCode/input
+hdfs dfs -put gk.csv FinalCode/input
