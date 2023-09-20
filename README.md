@@ -1,4 +1,4 @@
-# final-project-code-submission-das9669-apv9448
+# finding-competitive-advantages-in-fantasy-soccer
 
 This is the README file in the directory for Abhi Vachani's part of the Final Code Drop. 
 Project Name: Finding Competitive Advantages In Fantasy Soccer Using Data Analytics
