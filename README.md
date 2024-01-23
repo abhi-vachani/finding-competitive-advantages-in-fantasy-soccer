@@ -1,5 +1,7 @@
 # finding-competitive-advantages-in-fantasy-soccer
 
+## Important: Open the "Research_Paper.pdf" file to understand the project in greater detail. 
+
 This is the README file in the directory for Abhi Vachani's part of the Final Code Drop. 
 Project Name: Finding Competitive Advantages In Fantasy Soccer Using Data Analytics
 Partner: Argy Sakti 
